@@ -6,6 +6,13 @@
       "limit": 1,
       "banned": false,
       "devices": []
+    },
+    "TEST-FOR-NOW": {
+      "username": "Hello Bro",
+      "expiry": "2027-04-30",
+      "limit": 1,
+      "banned": false,
+      "devices": []
     }
   }
 }
