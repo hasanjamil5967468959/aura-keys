@@ -10,11 +10,11 @@
     }
   },
   "app_settings": {
-    "announcement": "Hi How Are You",
-    "force_update": true,
-    "maintenance": true,
+    "announcement": "",
+    "force_update": false,
+    "maintenance": false,
     "update_link": "",
-    "min_version": 2,
-    "admin_pass": "HASAN"
+    "min_version": 1,
+    "admin_pass": ""
   }
 }
