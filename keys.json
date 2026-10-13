@@ -11,10 +11,10 @@
   },
   "app_settings": {
     "announcement": "",
-    "force_update": false,
-    "maintenance": false,
+    "force_update": true,
+    "maintenance": true,
     "update_link": "",
     "min_version": 1,
-    "admin_pass": ""
+    "admin_pass": "HASAN"
   }
 }
