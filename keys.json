@@ -5,7 +5,7 @@
       "expiry": "2027-12-31",
       "limit": 1,
       "banned": false,
-      "kill": false,
+      "kill": true,
       "devices": []
     },
     "TEST": {
