@@ -18,7 +18,7 @@
       "username": "Testing",
       "expiry": "2026-10-14",
       "limit": 1,
-      "banned": false,
+      "banned": true,
       "devices": []
     }
   }
