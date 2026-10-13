@@ -1,13 +1,5 @@
 {
   "license_keys": {
-    "AURA-PRO-2026": {
-      "username": "Hasan",
-      "expiry": "2027-12-31",
-      "limit": 1,
-      "banned": false,
-      "kill": false,
-      "devices": []
-    },
     "TEST": {
       "username": "Me!",
       "expiry": "2027-05-31",
