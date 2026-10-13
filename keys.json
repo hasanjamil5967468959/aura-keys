@@ -6,13 +6,6 @@
       "limit": 1,
       "banned": true,
       "devices": []
-    },
-    "AURA-7N75QS28": {
-      "username": "Testing",
-      "expiry": "2026-10-14",
-      "limit": 1,
-      "banned": true,
-      "devices": []
     }
   }
 }
