@@ -10,9 +10,9 @@
     }
   },
   "app_settings": {
-    "announcement": "Hi",
+    "announcement": "New Update Available please update",
     "force_update": true,
-    "maintenance": true,
+    "maintenance": false,
     "update_link": "https://gist.github.com/",
     "min_version": 5,
     "admin_pass": ""
