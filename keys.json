@@ -10,8 +10,8 @@
     }
   },
   "app_settings": {
-    "announcement": "",
-    "force_update": false,
+    "announcement": "Hi",
+    "force_update": true,
     "maintenance": false,
     "update_link": "",
     "min_version": 1,
