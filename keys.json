@@ -12,7 +12,7 @@
   "app_settings": {
     "announcement": "Hi",
     "force_update": true,
-    "maintenance": false,
+    "maintenance": true,
     "update_link": "",
     "min_version": 1,
     "admin_pass": ""
