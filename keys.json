@@ -11,7 +11,7 @@
   },
   "app_settings": {
     "announcement": "New Update Available please update",
-    "force_update": true,
+    "force_update": false,
     "maintenance": false,
     "update_link": "https://gist.github.com/",
     "min_version": 5,
